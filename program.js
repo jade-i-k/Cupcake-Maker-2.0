@@ -1,3 +1,5 @@
+//ADVANCED SOFTWARE ENGINEERING H.W. 0: I have added a comment to complete section 1 of H.W. 0
+
 // I've been programming for around a year, and I have learned all of Intro to JS.
 // I made a program that uses the following JS skills: for loops, shapes, colors, variables, if statements, draw function, switch, distance, noise
 
